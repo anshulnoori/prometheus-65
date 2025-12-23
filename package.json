@@ -1,0 +1,22 @@
+{
+  "name": "prometheus-65",
+  "keywords": [],
+  "author": "Anshul Noori <@anshulnoori>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulnoori/prometheus-65.git"
+  },
+  "homepage": "https://github.com/anshulnoori/prometheus-65#readme",
+  "bugs": {
+    "url": "https://github.com/anshulnoori/prometheus-65/issues"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.2.0",
+    "@commitlint/config-conventional": "^20.2.0",
+    "husky": "^9.1.7"
+  },
+  "scripts": {
+    "prepare": "husky"
+  }
+}
