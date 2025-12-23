@@ -2,7 +2,7 @@
   "name": "prometheus-65",
   "keywords": [],
   "author": "Anshul Noori <@anshulnoori>",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anshulnoori/prometheus-65.git"
