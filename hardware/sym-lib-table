@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "prometheus-65-symbols")(type "KiCad")(uri "${KIPRJMOD}/prometheus-65-symbols.kicad_sym")(options "")(descr ""))
+)
