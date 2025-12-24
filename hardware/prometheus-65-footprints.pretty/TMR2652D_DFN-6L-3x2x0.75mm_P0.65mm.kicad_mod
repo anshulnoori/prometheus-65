@@ -178,6 +178,7 @@
 	(pad "7" smd roundrect
 		(at 0 0)
 		(size 1.7 1.6)
+		(property pad_prop_heatsink)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(uuid "e958ab7d-8f08-4c79-b192-c025f03d516e")
