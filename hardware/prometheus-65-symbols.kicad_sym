@@ -139,7 +139,7 @@
 			(pin power_in line
 				(at 1.27 -7.62 90)
 				(length 2.54)
-				(name "GND"
+				(name "EP"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5560,7 +5560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "prometheus-65-footprints:QFN50P350X250X80-17N"
+		(property "Footprint" "prometheus-65-footprints:TMUX1308BQBR"
 			(at 1.524 -26.416 0)
 			(effects
 				(font
@@ -51473,7 +51473,7 @@
 			)
 		)
 	)
-	(symbol "TPS7A4700RGWT"
+	(symbol "TPS7A4700"
 		(pin_names
 			(offset 1.016)
 		)
@@ -51489,7 +51489,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "TPS7A4700RGWT"
+		(property "Value" "TPS7A4700"
 			(at -12.7 -26.86 0)
 			(effects
 				(font
@@ -51566,7 +51566,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "TPS7A4700RGWT_0_0"
+		(symbol "TPS7A4700_0_0"
 			(rectangle
 				(start -12.7 22.86)
 				(end 12.7 -22.86)
@@ -51831,7 +51831,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 17.78 15.24 180)
 				(length 5.08)
 				(name "OUT"
@@ -51849,7 +51849,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 17.78 15.24 180)
 				(length 5.08)
 				(hide yes)
