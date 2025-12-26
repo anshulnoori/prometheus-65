@@ -601,7 +601,6 @@
 				)
 			)
 			(embedded_fonts no)
-			(embedded_files)
 		)
 	)
 	(global_label "MUX_A2"
