@@ -1050,6 +1050,10 @@
     [
       "f2e1a5a1-adb9-4d0f-84af-2191946e6f18",
       "Mux_7"
+    ],
+    [
+      "d970b0fa-c6f1-41cf-abc4-7c21438e8c5b",
+      "LEDs"
     ]
   ],
   "text_variables": {}
