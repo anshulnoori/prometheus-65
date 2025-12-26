@@ -1013,11 +1013,11 @@
 		)
 	)
 	(no_connect
-		(at 144.78 175.26)
+		(at 147.32 175.26)
 		(uuid "1015e6d9-d2d7-48b3-b5c7-c0608dcb04e1")
 	)
 	(no_connect
-		(at 95.25 175.26)
+		(at 83.82 175.26)
 		(uuid "90efccba-b910-482e-a739-d8c216aaa5a7")
 	)
 	(no_connect
@@ -1025,7 +1025,7 @@
 		(uuid "c2fb914b-07aa-44ca-a41d-979311cf0784")
 	)
 	(no_connect
-		(at 120.65 175.26)
+		(at 115.57 175.26)
 		(uuid "c8df8ec4-81a4-44f7-87f2-d017058733fb")
 	)
 	(wire
@@ -1978,7 +1978,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 105.41 175.26 270)
+		(at 100.33 175.26 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1987,7 +1987,7 @@
 		(fields_autoplaced yes)
 		(uuid "15713c13-72f6-48e2-8b67-7af9ca63d9e6")
 		(property "Reference" "#PWR0660"
-			(at 99.06 175.26 0)
+			(at 93.98 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1996,7 +1996,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 101.6 175.2599 90)
+			(at 96.52 175.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2005,7 +2005,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 175.26 0)
+			(at 100.33 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2014,7 +2014,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 175.26 0)
+			(at 100.33 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2023,7 +2023,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 105.41 175.26 0)
+			(at 100.33 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3852,7 +3852,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 113.03 181.61 0)
+		(at 107.95 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3861,7 +3861,7 @@
 		(fields_autoplaced yes)
 		(uuid "338f7bb7-3ceb-4f35-ac74-28862944c9b9")
 		(property "Reference" "#PWR0663"
-			(at 113.03 187.96 0)
+			(at 107.95 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3870,7 +3870,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 113.03 186.69 0)
+			(at 107.95 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3878,7 +3878,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 113.03 181.61 0)
+			(at 107.95 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3887,7 +3887,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 181.61 0)
+			(at 107.95 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3896,7 +3896,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 113.03 181.61 0)
+			(at 107.95 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3994,7 +3994,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 87.63 181.61 0)
+		(at 76.2 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4003,7 +4003,7 @@
 		(fields_autoplaced yes)
 		(uuid "35ef81f6-43b3-472c-8ca6-295a014f2709")
 		(property "Reference" "#PWR0662"
-			(at 87.63 187.96 0)
+			(at 76.2 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4012,7 +4012,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 87.63 186.69 0)
+			(at 76.2 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4020,7 +4020,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 181.61 0)
+			(at 76.2 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4029,7 +4029,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 181.61 0)
+			(at 76.2 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4038,7 +4038,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 87.63 181.61 0)
+			(at 76.2 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7408,7 +7408,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 129.54 175.26 270)
+		(at 132.08 175.26 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7417,7 +7417,7 @@
 		(fields_autoplaced yes)
 		(uuid "69a63dc8-ad0c-493b-b25d-cd6873a614bf")
 		(property "Reference" "#PWR0661"
-			(at 123.19 175.26 0)
+			(at 125.73 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7426,7 +7426,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 125.73 175.2599 90)
+			(at 128.27 175.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7435,7 +7435,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 175.26 0)
+			(at 132.08 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7444,7 +7444,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 175.26 0)
+			(at 132.08 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7453,7 +7453,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 129.54 175.26 0)
+			(at 132.08 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8110,7 +8110,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74AHCT125")
-		(at 113.03 175.26 0)
+		(at 107.95 175.26 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8119,7 +8119,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c033e43-918c-4a13-9699-e65389e38f6b")
 		(property "Reference" "U76"
-			(at 113.03 166.37 0)
+			(at 107.95 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8127,7 +8127,7 @@
 			)
 		)
 		(property "Value" "74AHCT125"
-			(at 113.03 168.91 0)
+			(at 107.95 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8135,7 +8135,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 113.03 175.26 0)
+			(at 107.95 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8144,7 +8144,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ahct125.pdf"
-			(at 113.03 175.26 0)
+			(at 107.95 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8153,7 +8153,7 @@
 			)
 		)
 		(property "Description" "Quadruple Bus Buffer Gates With 3-State Outputs"
-			(at 113.03 175.26 0)
+			(at 107.95 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11408,7 +11408,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74AHCT125")
-		(at 87.63 175.26 0)
+		(at 76.2 175.26 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11417,7 +11417,7 @@
 		(fields_autoplaced yes)
 		(uuid "b0d9d113-351d-45b6-b836-f3ce05dcd1eb")
 		(property "Reference" "U76"
-			(at 87.63 166.37 0)
+			(at 76.2 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11425,7 +11425,7 @@
 			)
 		)
 		(property "Value" "74AHCT125"
-			(at 87.63 168.91 0)
+			(at 76.2 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11433,7 +11433,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 175.26 0)
+			(at 76.2 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11442,7 +11442,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ahct125.pdf"
-			(at 87.63 175.26 0)
+			(at 76.2 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11451,7 +11451,7 @@
 			)
 		)
 		(property "Description" "Quadruple Bus Buffer Gates With 3-State Outputs"
-			(at 87.63 175.26 0)
+			(at 76.2 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12556,7 +12556,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74AHCT125")
-		(at 137.16 175.26 0)
+		(at 139.7 175.26 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12565,7 +12565,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce326b7a-dc3b-49cc-b9dd-3e0c8440c693")
 		(property "Reference" "U76"
-			(at 137.16 166.37 0)
+			(at 139.7 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12573,7 +12573,7 @@
 			)
 		)
 		(property "Value" "74AHCT125"
-			(at 137.16 168.91 0)
+			(at 139.7 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12581,7 +12581,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 175.26 0)
+			(at 139.7 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12590,7 +12590,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ahct125.pdf"
-			(at 137.16 175.26 0)
+			(at 139.7 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12599,7 +12599,7 @@
 			)
 		)
 		(property "Description" "Quadruple Bus Buffer Gates With 3-State Outputs"
-			(at 137.16 175.26 0)
+			(at 139.7 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14774,7 +14774,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 175.26 270)
+		(at 68.58 175.26 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14783,7 +14783,7 @@
 		(fields_autoplaced yes)
 		(uuid "f246dcdd-690a-4c53-a2fc-92c60dc988a3")
 		(property "Reference" "#PWR0659"
-			(at 73.66 175.26 0)
+			(at 62.23 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14792,7 +14792,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 76.2 175.2599 90)
+			(at 64.77 175.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14801,7 +14801,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 175.26 0)
+			(at 68.58 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14810,7 +14810,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 175.26 0)
+			(at 68.58 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14819,7 +14819,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 175.26 0)
+			(at 68.58 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15392,7 +15392,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 181.61 0)
+		(at 139.7 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15401,7 +15401,7 @@
 		(fields_autoplaced yes)
 		(uuid "fed3281b-dec6-469b-930e-3274b0fd2c55")
 		(property "Reference" "#PWR0664"
-			(at 137.16 187.96 0)
+			(at 139.7 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15410,7 +15410,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 137.16 186.69 0)
+			(at 139.7 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15418,7 +15418,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 181.61 0)
+			(at 139.7 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15427,7 +15427,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 181.61 0)
+			(at 139.7 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15436,7 +15436,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 181.61 0)
+			(at 139.7 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
