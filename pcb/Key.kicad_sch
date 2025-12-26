@@ -7954,7 +7954,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 106.68 69.8499 0)
 			(effects
 				(font
@@ -8275,7 +8275,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1kΩ"
 			(at 106.68 60.96 90)
 			(effects
 				(font
