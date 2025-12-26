@@ -447,8 +447,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "prometheus-65-footprints"
+    ],
+    "pinned_symbol_libs": [
+      "prometheus-65-symbols"
+    ]
   },
   "meta": {
     "filename": "prometheus-65.kicad_pro",

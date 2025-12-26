@@ -1,4 +1,4 @@
-(footprint "MDT_DFN-6-1EP_3x2mm_P0.65mm_EP1.7x1.6mm"
+(footprint "TMR2652D"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "MDT_DFN-6-1EP_3x2mm_P0.65mm_EP1.7x1.6mm"
+	(property "Value" "TMR2652D"
 		(at 0 1.95 0)
 		(layer "F.Fab")
 		(uuid "bb9136e3-895a-4a72-b1cd-d25431d57138")
@@ -336,7 +336,7 @@
 		(uuid "69cd7034-3d3e-4d53-bebf-cea7c6f85ece")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/prometheus-65-models.3dshapes/MDT_DFN-6-1EP_3x2mm_P0.65mm_EP1.7x1.6mm.step"
+	(model "${KIPRJMOD}/prometheus-65-models.3dshapes/TMR2652D.step"
 		(offset
 			(xyz 0 0 0)
 		)

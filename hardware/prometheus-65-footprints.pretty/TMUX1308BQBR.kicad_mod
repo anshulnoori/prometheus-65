@@ -1,4 +1,4 @@
-(footprint "QFN50P350X250X80-17N"
+(footprint "TMUX1308BQBR"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "QFN50P350X250X80-17N"
+	(property "Value" "TMUX1308BQBR"
 		(at 10.835 3.385 0)
 		(layer "F.Fab")
 		(uuid "a9d7fda6-5988-4ce4-8331-19e3568b11ee")
