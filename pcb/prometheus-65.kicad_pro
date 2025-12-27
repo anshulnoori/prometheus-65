@@ -664,31 +664,31 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Value",
           "name": "Value",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -700,13 +700,49 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description_1",
+          "name": "Description_1",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
-      "filter_string": "",
-      "group_symbols": true,
+      "filter_string": "S",
+      "group_symbols": false,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -738,6 +774,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -765,275 +809,275 @@
     ],
     [
       "250f9ee4-352e-4d55-a18e-5ebac116b695",
-      "Key_0"
+      "TMR_0"
     ],
     [
       "a9c42e61-5ec1-4fa9-ae2f-cdc1de1fa9fe",
       "Mux_0"
     ],
     [
-      "a7d518fc-481f-4fc4-9ef0-6a96903844ba",
-      "Key_1"
+      "6dbeaf9c-2544-4a5b-9c5c-24dd5c284933",
+      "TMR_1"
     ],
     [
-      "3d6477be-7813-4b2a-b1be-7942756f00be",
-      "Key_2"
+      "8e0605c6-c367-4b49-91f0-b4eb55437a11",
+      "TMR_2"
     ],
     [
-      "c762a343-5c2c-458e-90b2-2031c658c875",
-      "Key_3"
+      "7334ca68-65c3-41ae-83dd-ff212c52de9a",
+      "TMR_3"
     ],
     [
-      "3202169f-6a0b-48b4-add5-4c113abdc5ae",
-      "Key_4"
+      "497b26c6-d28b-4717-aea3-3d0398e80284",
+      "TMR_4"
     ],
     [
-      "d7077fc2-a072-4ae9-8193-cb4b097b7a8e",
-      "Key_5"
+      "ea2387ef-8c0f-4c5a-8676-14a5cae0faf6",
+      "TMR_5"
     ],
     [
-      "f37d776a-afa8-4f27-894f-1fe26d66c8a9",
-      "Key_6"
+      "664ad246-43f8-4548-a4f3-74f15c0212c6",
+      "TMR_6"
     ],
     [
-      "798ee396-66f0-47ec-9dbf-147b7dceff5a",
-      "Key_7"
+      "eda83c7f-cff0-45b1-b242-240baa45e297",
+      "TMR_7"
     ],
     [
-      "64d1296e-e2fd-42b0-b918-2f5927930f46",
-      "Key_8"
+      "36f4f21a-35b7-43a7-a9fa-c1c8f4cc42bf",
+      "TMR_8"
     ],
     [
-      "a4d4b8b6-92f6-493a-bf1b-6651b671c105",
-      "Key_9"
+      "a571a3cb-9a3f-45da-9aeb-e9806687f4b8",
+      "TMR_9"
     ],
     [
-      "2bcaf7cb-875e-4e29-b607-49cb2085d0e8",
-      "Key_10"
+      "913dbe78-7a74-4c81-85c1-8d6046c2c60b",
+      "TMR_10"
     ],
     [
-      "fce16760-20aa-4d2d-9fc8-a11483db6820",
-      "Key_11"
+      "81c901ef-19c6-4350-9707-c3d661d58521",
+      "TMR_11"
     ],
     [
-      "17500b8b-d8e0-452b-a80c-3e6a15b618d6",
-      "Key_12"
+      "19cf88fd-7261-4e42-a6e5-365cda70b9dd",
+      "TMR_12"
     ],
     [
-      "ab76c2b1-f146-440c-b9d8-c38a0ef36699",
-      "Key_13"
+      "3e3a217e-ca61-4a0b-8e6d-97b34320df5d",
+      "TMR_13"
     ],
     [
-      "b619e279-0eba-43f9-98cc-1160ed22ada2",
-      "Key_14"
+      "60c62524-3449-46b4-ac27-c4ade0155b63",
+      "TMR_14"
     ],
     [
-      "ec3f341e-c2e2-4cfb-80ea-0c7e554c3770",
-      "Key_15"
+      "28bbee2e-5397-47a2-9053-9fd780080563",
+      "TMR_15"
     ],
     [
       "8fd9d515-2105-4930-9563-b36413125d29",
       "Mux_1"
     ],
     [
-      "e8d5021a-f231-4a9d-8114-fdd84e643e6d",
-      "Key_16"
+      "72475d5c-3d26-4ab1-b797-5c9baaf8a96c",
+      "TMR_16"
     ],
     [
-      "0ff6f782-7681-4ae2-9422-024d163858a2",
-      "Key_17"
+      "ad7f1861-ebc3-4ce7-9018-492a02894392",
+      "TMR_17"
     ],
     [
-      "aa434075-1789-4782-8a84-86c0ec8cb085",
-      "Key_18"
+      "dff3e384-c54a-45d1-961e-75066ad8d0ec",
+      "TMR_18"
     ],
     [
-      "75d1f9d2-a9ad-4b9e-a2d8-026698dff34d",
-      "Key_19"
+      "ba31728b-a9ec-432c-9006-d58e283d1595",
+      "TMR_19"
     ],
     [
-      "55cb5d44-c682-427e-9213-8d55dbc1b43b",
-      "Key_20"
+      "99a11c45-3442-4211-9457-e8eb0399c280",
+      "TMR_20"
     ],
     [
-      "9a8574b1-ee9e-4669-a54c-99d5399365ad",
-      "Key_21"
+      "048cdda8-be0c-4970-b8ac-0e46b05e7dcc",
+      "TMR_21"
     ],
     [
-      "9818deaf-c0b0-46b3-97c3-fce1e2335f66",
-      "Key_22"
+      "bc5701e0-5910-48a4-bd8f-2ade5941d3c8",
+      "TMR_22"
     ],
     [
-      "6b70f40d-dc4e-4da3-bf0e-a9cdeefcc876",
-      "Key_23"
+      "3f7b206c-d127-4e47-8429-889ff0f36ea9",
+      "TMR_23"
     ],
     [
       "5fb3d5f1-a778-4ba7-9988-406cde0bb447",
       "Mux_2"
     ],
     [
-      "b304d4e7-3452-400f-a584-53369fc7c0ab",
-      "Key_24"
+      "4c625ff7-d4b2-42ec-a009-b5990acb0b7f",
+      "TMR_24"
     ],
     [
-      "5e2284b8-59a0-4ab4-9890-22883b7c2456",
-      "Key_25"
+      "46374541-28c8-4c14-a6eb-1eff0ef4128f",
+      "TMR_25"
     ],
     [
-      "253c5166-98b0-4b91-a4a9-9bbbc974ab2a",
-      "Key_26"
+      "d4cf789d-d57a-4da7-ae65-94e84ee54b7b",
+      "TMR_26"
     ],
     [
-      "5ab64a20-c9fd-4837-ac20-dc71a022cd27",
-      "Key_27"
+      "be0a23b6-ebda-42ac-95fd-bf25f587b34d",
+      "TMR_27"
     ],
     [
-      "4bbe8a23-026b-44d1-8f99-973d70c78435",
-      "Key_28"
+      "5cf5f06b-9b63-49df-a3a6-3b441d758d3a",
+      "TMR_28"
     ],
     [
-      "d894cc80-086f-4b3e-86e6-4e9d853a6ffd",
-      "Key_29"
+      "d4e18f09-0671-474e-8d67-a1fc54349e65",
+      "TMR_29"
     ],
     [
-      "6928da6b-2bda-44ce-a4a5-c696b64dde9a",
-      "Key_30"
+      "55bcbf20-1f87-4c56-b154-40b8eff75fc5",
+      "TMR_30"
     ],
     [
-      "f0fd9076-5ca4-4c58-9c6a-6f9daf543009",
-      "Key_31"
+      "2090042c-bd5c-4934-a829-ade250e64e3c",
+      "TMR_31"
     ],
     [
       "57499abe-bae0-4aba-b387-192b72537f00",
       "Mux_3"
     ],
     [
-      "490436ca-366c-49dc-8ac1-b7c4ad441a0d",
-      "Key_32"
+      "bf8b54e9-a178-4793-a403-5c99ab29e914",
+      "TMR_32"
     ],
     [
-      "e746f94f-82a5-40db-864d-3ce53febc152",
-      "Key_33"
+      "e0db5a42-96b1-4ffe-804f-d91c10629d96",
+      "TMR_33"
     ],
     [
-      "46d5765a-3add-4cf9-9ea3-fbe5765cc5ad",
-      "Key_34"
+      "4097d32e-f715-4ea2-8b72-0bbfa6a43156",
+      "TMR_34"
     ],
     [
-      "27384715-a50f-45d1-b779-fe45803dafa3",
-      "Key_35"
+      "8322910b-9f40-43d7-a6d9-a812010da9eb",
+      "TMR_35"
     ],
     [
-      "da7c76c7-f6fe-4828-bf98-45fc8b88549c",
-      "Key_36"
+      "6fbb01bd-ae71-420e-a126-4b01cddbccea",
+      "TMR_36"
     ],
     [
-      "87b01f01-2b56-49c1-bdfc-7d6dad6e47c2",
-      "Key_37"
+      "0942ce78-b1a0-4bab-9dea-af7c27e66d40",
+      "TMR_37"
     ],
     [
-      "0afec671-3031-4740-90d7-4b9462084601",
-      "Key_38"
+      "1737d41e-d6c6-481d-b71f-54dece6c00b0",
+      "TMR_38"
     ],
     [
-      "f70d2281-cc4b-48ab-9adf-11133d650a5c",
-      "Key_39"
+      "d781730a-072d-4ebf-a075-37957a806c42",
+      "TMR_39"
     ],
     [
-      "5f4626a2-666b-463f-8093-377d4331afe0",
-      "Key_40"
+      "bda72b86-bb3d-4765-8d77-102cd8832778",
+      "TMR_40"
     ],
     [
-      "a3028d1c-8954-4e61-8728-68ea9dfebe7a",
-      "Key_41"
+      "ed77a9fe-cd8b-4f8e-887d-b0e7e2ef5b66",
+      "TMR_41"
     ],
     [
-      "ed3fe69e-7e9c-457d-b638-98dfedc6f862",
-      "Key_42"
+      "f0785ed9-a295-4c03-b4a6-a9b38147610a",
+      "TMR_42"
     ],
     [
-      "9169c95e-f96c-464b-8767-18032c28da5b",
-      "Key_43"
+      "fe5e0eb8-ce9b-402f-8354-d3151dcad8de",
+      "TMR_43"
     ],
     [
-      "a7a13367-6cf4-4acd-a350-1d566bdc9f4b",
-      "Key_44"
+      "bb72217b-5685-4924-8436-469361b30dbd",
+      "TMR_44"
     ],
     [
-      "5cc26c64-0ad0-4d3c-8f1b-26c7b6138f09",
-      "Key_45"
+      "889ed2ca-fdd0-4578-af6a-126cea25f240",
+      "TMR_45"
     ],
     [
-      "7696f1d3-9f0c-4586-9a63-61584e44a889",
-      "Key_46"
+      "a587a507-9861-4fea-b031-bf8b6916dfce",
+      "TMR_46"
     ],
     [
-      "03f73a57-1ea8-4b32-85f6-73912e66335c",
-      "Key_47"
+      "c6fe1ffe-939c-428e-9bcf-59855e5b3299",
+      "TMR_47"
     ],
     [
-      "8e1bd31f-a567-4e36-8175-4a55e6ba4ec9",
-      "Key_48"
+      "15c3a46d-4056-4731-baf0-fa6e5a25fe3e",
+      "TMR_48"
     ],
     [
-      "f63be247-ce36-4583-a75a-0cfa2046aac8",
-      "Key_49"
+      "256680a4-1800-428c-ba57-bedf5dfd4205",
+      "TMR_49"
     ],
     [
-      "2d714bde-8f55-4a50-96e2-e011b2bc3b43",
-      "Key_50"
+      "8c0c9b97-c04a-4b95-bab9-fafa0e035d34",
+      "TMR_50"
     ],
     [
-      "db0e1ca0-25d3-42b9-870f-ce9f076fe448",
-      "Key_51"
+      "87cba1fc-4f1b-4d64-b19c-e93429b8e965",
+      "TMR_51"
     ],
     [
-      "cc73b838-e94a-4c61-8978-e73f3e7682d9",
-      "Key_52"
+      "9c4db4bf-936a-41ad-9a84-21853eaeb271",
+      "TMR_52"
     ],
     [
-      "9993e163-820b-4541-8acd-8f171343f6c9",
-      "Key_53"
+      "5701f229-442b-4d7d-b138-59bd62385464",
+      "TMR_53"
     ],
     [
-      "e7136036-2534-40ae-b8df-0594d42313bf",
-      "Key_54"
+      "a71a9b97-95c6-4306-8883-dde19e6ecca8",
+      "TMR_54"
     ],
     [
-      "cdd1f905-6d4e-4690-8700-0fa9e8937618",
-      "Key_55"
+      "356d2cb1-2dc3-4a77-a594-70e64faf0e8e",
+      "TMR_55"
     ],
     [
-      "071627d9-66f1-4d44-9d45-b12349df9e81",
-      "Key_56"
+      "a49b8cb2-1a0f-4292-b8c0-03c4f9c43b66",
+      "TMR_56"
     ],
     [
-      "50e7bafc-57bd-4c3b-ab93-15c37feab43f",
-      "Key_57"
+      "bd2b2567-3e15-4344-9d0d-58333114af22",
+      "TMR_57"
     ],
     [
-      "841254e2-47cc-41d2-bace-f0e375107504",
-      "Key_58"
+      "40471456-264e-4cc2-9859-54980bed1cf6",
+      "TMR_58"
     ],
     [
-      "fab128fd-b425-410b-b935-cf2ddbb7668f",
-      "Key_59"
+      "092bdb10-eb64-43b1-ab97-63e9dabeca89",
+      "TMR_59"
     ],
     [
-      "52b557eb-5fa4-43d2-a252-79eb47516df6",
-      "Key_60"
+      "1fb83b42-c83e-4b7d-86ca-69118303d4f6",
+      "TMR_60"
     ],
     [
-      "e6fa2e66-3eff-4843-9cf8-685272add386",
-      "Key_61"
+      "278a705c-9763-4ff9-b3f5-1f4f4e9b250d",
+      "TMR_61"
     ],
     [
-      "4575918f-1d9c-44d8-8245-d5f625e89cf5",
-      "Key_62"
+      "2594ddef-a993-45d6-9181-7c6081c9c5d3",
+      "TMR_62"
     ],
     [
-      "7727809b-ffbc-4ab9-85fa-d3687b02598e",
-      "Key_63"
+      "d9156e8d-9f41-4bf6-9de6-ca79227b20a2",
+      "TMR_63"
     ],
     [
       "0adfa91a-0784-424f-9949-4c22152ab92f",
